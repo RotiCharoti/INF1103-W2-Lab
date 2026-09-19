@@ -22,7 +22,7 @@ def calculate_tax(amount):
 
 def generate_report(total_units, failed_attempts):
     print("\n--- Final Report ---")
-    print(f"Total Units Processed: {total_units}")
+    print(f"Total Deliveries Processed: {total_units}")
     print(f"Number of Failed/Rejected Entries: {failed_attempts}")
 
 
@@ -40,11 +40,11 @@ def main():
             failed_attempts += 1
             continue
 
-        total_inventory += process_delivery(total_inventory, quantity)
+        total_inventory = process_delivery(total_inventory, quantity)
         tax = calculate_tax(quantity)
         deliveries_processed += 1
 
-        print(f"Added {quantity} quantity of stock(s). Tax on this delivery is ${tax: .2f}")
+        print(f"Added {quantity} unit of stock(s), tax on this delivery is ${tax:.2f}")
 
     generate_report(deliveries_processed, failed_attempts)
 
