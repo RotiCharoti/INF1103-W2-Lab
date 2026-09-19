@@ -1,3 +1,15 @@
+commit 85621965ce557edc882eaa06d2cc7e34175d6430
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 18 16:59:04 2026 +0800
+
+    week 3 lab
+
+commit 431aa4ab72159ee38c18e456564ff42904bd6fcb
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sun Sep 13 00:38:52 2026 +0800
+
+    log history
+
 commit d062de810db9939abb4318d9c62e5d334187d837
 Author: Charlotte <charlottelim.official@gmail.com>
 Date:   Fri Sep 11 17:31:48 2026 +0800
