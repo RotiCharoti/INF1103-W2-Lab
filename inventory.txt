@@ -1,3 +1,4 @@
 1001, Wireless Mouse, 2
 1002, Laptop Stand, 2
-TOTAL, 4
+1003, Headphones, 10
+TOTAL, 14
