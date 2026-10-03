@@ -1,0 +1,96 @@
+commit a61c8882cf7d42f28aaa73027ef253d919440539
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Oct 3 18:20:53 2026 +0800
+
+    updated code
+
+commit b62b9f39be1f00289e92c21023f7d2d6a704b70b
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Thu Oct 1 19:20:50 2026 +0800
+
+    Updated changes
+
+commit 3c25d01c4b19174213c6111cd23a9c42f07b3f7f
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Thu Oct 1 19:13:52 2026 +0800
+
+    updated log history
+
+commit 43bf20cce063947555f27b8e85f5f8983c41133a
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Thu Oct 1 19:13:13 2026 +0800
+
+    Updated code
+
+commit e27ad17a2ad27757b9df03dbeeaac5545b13956a
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Sep 19 19:22:35 2026 +0800
+
+    update log
+
+commit a61eb980997be2a2a59dd97c435676c2f0f99b60
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Sep 19 19:22:11 2026 +0800
+
+    update Dockerfile
+
+commit 6fc1e4ff9720df6a02f0ed369d1872d7ee0cf71e
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Sep 19 19:02:44 2026 +0800
+
+    fix inventory increment and print statement
+
+commit dc0d27917f6d300a3bb25d789d8389af5f472cec
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Sep 19 18:56:15 2026 +0800
+
+    log history
+
+commit 85621965ce557edc882eaa06d2cc7e34175d6430
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 18 16:59:04 2026 +0800
+
+    week 3 lab
+
+commit 431aa4ab72159ee38c18e456564ff42904bd6fcb
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sun Sep 13 00:38:52 2026 +0800
+
+    log history
+
+commit d062de810db9939abb4318d9c62e5d334187d837
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 11 17:31:48 2026 +0800
+
+    auditor code
+
+commit 7732c026a8b035d84763ca7278ec286bad431204
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 11 17:23:30 2026 +0800
+
+    update Dockerfile
+
+commit 95c02e3cba2991c52b7e6d492cae6ff84d881e2f
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 11 17:21:58 2026 +0800
+
+    create Dockerfile
+
+commit 9fd9ee04aace1269fed07cb75bda72da12104108
+Merge: 87d58a0 fac7762
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 11 17:11:05 2026 +0800
+
+    Merge branch 'main' of https://github.com/RotiCharoti/INF1103-W2-Lab
+
+commit 87d58a0a3740308ac3eaef0fd0a1b31275755eb2
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Sep 11 17:08:51 2026 +0800
+
+    commit auditor.py file
+
+commit fac7762891b52286a877ed0da8437eac804effb8
+Author: Charlotte Lim <s10258748@connect.np.edu.sg>
+Date:   Fri Sep 11 17:03:05 2026 +0800
+
+    Initial commit
