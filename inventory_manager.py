@@ -90,7 +90,7 @@ def update_stock():
                     return
                 item['stock'] = new_stock
                 save_inventory(current_inventory)
-                print("\n Stock updated successfully!")
+                print("\nStock updated successfully!")
             except ValueError:
                 print("Invalid input! Please enter a valid intger for the stock quantity.")
             break
@@ -142,7 +142,7 @@ def main():
             print("Saving inventory before exit...")
             print("Inventory saved successfully.")
             print("\nThank you for using Inventory Management System.")
-            print("Prgram terminated.")
+            print("Program terminated.")
             break
         else:
             print("Invalid option! Please enter a valid option (1-6).")
