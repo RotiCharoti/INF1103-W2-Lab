@@ -1,3 +1,15 @@
+commit e36a68f077a9d93ab5c6831b03ad99f8715b00a0
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Oct 3 18:27:15 2026 +0800
+
+    adjust spelling and spacing error
+
+commit b836f5258f21df9d8436b7117497ef7e0b04ba49
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Sat Oct 3 18:21:13 2026 +0800
+
+    updated log history
+
 commit a61c8882cf7d42f28aaa73027ef253d919440539
 Author: Charlotte <charlottelim.official@gmail.com>
 Date:   Sat Oct 3 18:20:53 2026 +0800
