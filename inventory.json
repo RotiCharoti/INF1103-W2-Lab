@@ -16,5 +16,17 @@
         "name": "Keyboard",
         "price": 45.0,
         "stock": 25
+    },
+    {
+        "id": "P004",
+        "name": "Monitor",
+        "price": 299.99,
+        "stock": 50
+    },
+    {
+        "id": "P005",
+        "name": "Headphone",
+        "price": 120.0,
+        "stock": 40
     }
 ]

@@ -1,4 +1,7 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
+
 WORKDIR /app
-COPY inventory_manager.py .
-CMD ["python", "inventory_manager.py"]
+
+COPY . /app
+
+CMD ["python", "app.py"]
