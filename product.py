@@ -1,9 +1,16 @@
-class Product:
+from abc import ABC, abstractmethod
+
+class Product(ABC):
     def __init__(self, product_id, name, price, stock):
+        if not product_id.strip():
+            raise ValueError("Product ID cannot be empty.")
+        if not name.strip():
+            raise ValueError("Product name cannot be empty.")
         if price < 0:
             raise ValueError("Product price cannot be less than 0.")
         if stock < 0:
             raise ValueError("Stock quantity cannot be less than 0.")
+
         self.__product_id = product_id
         self.__name = name
         self.__price = price
@@ -21,13 +28,17 @@ class Product:
     def get_stock(self):
         return self.__stock
 
-    # Update stock quantity 
     def update_stock(self, quantity):
         if quantity < 0:
             raise ValueError("Stock quantity cannot be less than 0.")
         self.__stock = quantity
 
-    # Display information of the product 
     def display_information(self):
-        print(f"ID: {self.__product_id} | Name: {self.__name} | "
-              f"Price: ${self.__price:.2f} | Stock: {self.__stock}")
+        return (
+            f"ID: {self.__product_id} | Name: {self.__name} | "
+            f"Price: ${self.__price:.2f} | Stock: {self.__stock}"
+        )
+
+    @abstractmethod
+    def get_fulfilment_info(self):
+        pass
