@@ -1,3 +1,15 @@
+commit 82f990e5136362ab8ab05178e9108cfdeb37cb01
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Fri Oct 30 20:02:44 2026 +0800
+
+    week 9 lab updates
+
+commit 348101d61bd61ba31a1640f1f2e80d14ade7a124
+Author: Charlotte <charlottelim.official@gmail.com>
+Date:   Thu Oct 29 19:55:33 2026 +0800
+
+    Update git log
+
 commit 3ac9d428960f9e50a44ba20472913fc9c7ea4c89
 Author: Charlotte <charlottelim.official@gmail.com>
 Date:   Thu Oct 29 19:55:14 2026 +0800
